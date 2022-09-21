@@ -24,7 +24,6 @@ extension MainViewController {
         super.viewDidLoad()
         initializeStockLabel()
         initializeJuiceOrderButton()
-        
     }
     
     override func viewWillAppear(_ animated: Bool) {
