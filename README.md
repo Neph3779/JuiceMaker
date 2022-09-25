@@ -4,6 +4,8 @@
 
 **진행기간: 2021/03/08 ~ 2021/03/19**
 
+**프로젝트 진행 인원: 2인**
+
 ##### **작동 화면**
 
 <img src="https://raw.githubusercontent.com/Neph3779/Blog-Image/forUpload/img/20220921170229.gif" alt="JuiceMaker3" style="zoom:50%;" />
